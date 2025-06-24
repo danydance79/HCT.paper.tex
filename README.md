@@ -1,2 +1,0 @@
-# HCT.paper.tex
-Citings 
